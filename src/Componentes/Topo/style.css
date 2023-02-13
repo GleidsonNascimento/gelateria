@@ -1,0 +1,29 @@
+.limitar-largura{
+    width: 1200px;
+    
+}
+.limitar-largura img{
+    width: 70px;
+}
+header div{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+header a{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+}
+header a:hover{
+    color: rgb(255, 25, 25);
+}
+header{
+    width: 100%;
+    background-color:  rgb(249, 219, 121);
+    position: fixed;
+    z-index: 1;
+    
+}
